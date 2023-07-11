@@ -30,7 +30,7 @@ Investigating the relationship of Melanoma and UV exposure (J/m2) across US stat
 #### UV_Melanoma.ipynb
 
 ### The average correlation between Melanoma and UV exposure (J/m2) across US states:
-![Alt text](results/corr_mel_uv.PNG)
+![Alt text](/results/corr_mel_uv.PNG)
 
 
 ------------------------------------------------------------------------
