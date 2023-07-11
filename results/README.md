@@ -12,12 +12,12 @@ Investigating the spatiotemporal relationship of drought with stroke across US s
 
 #### Drought.csv
 
-![alt text]([https://github.com/WellcomeIdeathon2023/Climate_Care_Alliance/blob/2e4b6a01b9c4330cba7a40fd6af4f82836e9a48c/results/drought_data.PNG)
+![alt text](/results/drought_data.PNG)
 
 
 #### Stroke.csv
 
-![alt text]([http://url/to/img.png](https://github.com/WellcomeIdeathon2023/Climate_Care_Alliance/blob/2e4b6a01b9c4330cba7a40fd6af4f82836e9a48c/results/stroke_data.PNG))
+![alt text]([https://github.com/WellcomeIdeathon2023/Climate_Care_Alliance/blob/2e4b6a01b9c4330cba7a40fd6af4f82836e9a48c/results/stroke_data.PNG)
 
 
 ## Associated Code: 
