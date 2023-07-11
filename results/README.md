@@ -16,6 +16,11 @@ Investigating the spatiotemporal relationship of drought with stroke across US s
 ## Associated Code: 
 #### Drought_Stroke.ipynb
 
+### The spatiotemporal representation of the average correlation between consecutive weeks of drought and stroke cases across US states:
+![Alt text](/results/Consecutive_weeks_drought.PNG)
+
+
+
 ------------------------------------------------------------------------
 # Set Two
 Investigating the relationship of Melanoma and UV exposure (J/m2) across US states 
@@ -29,7 +34,7 @@ Investigating the relationship of Melanoma and UV exposure (J/m2) across US stat
 ## Associated Code: 
 #### UV_Melanoma.ipynb
 
-### The average correlation between Melanoma and UV exposure (J/m2) across US states:
+### The spatiotemporal representation of the average correlation between Melanoma and UV exposure (J/m2) across US states:
 ![Alt text](/results/corr_mel_uv.PNG)
 
 
