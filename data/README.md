@@ -28,7 +28,18 @@ Investigating the relationship of Melanoma and UV exposure (J/m2) across US stat
 ## Associated Code: 
 #### UV_Melanoma.ipynb
 
+------------------------------------------------------------------------
+# Set Three
+Investigating the relationship between Asthma and PM2.5 across US states 
 
+## Datasets
+#### Centers for Disease Control and Prevention
+
+#### Asthma.csv
+#### AQ_PM25.csv
+
+## Associated Code: 
+#### PM_VS_Asthma.ipynb
 
 
 
