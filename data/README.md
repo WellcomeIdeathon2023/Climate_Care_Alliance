@@ -8,8 +8,8 @@ Investigating the relationship of drought with stroke across US states
 # Datasets:
 # Centers for Disease Control and Prevention
 
-Drought.csv
-Stroke.csv
+### Drought.csv
+### Stroke.csv
 
 
 # Associated Code: 
@@ -22,8 +22,8 @@ Investigating the relationship of Melanoma and UV exposure (J/m2) across US stat
 # Datasets
 # Centers for Disease Control and Prevention
 
-UV.csv
-skin.csv
+### UV.csv
+### skin.csv
 # Associated Code: 
 UV_Melanoma.ipynb
 
