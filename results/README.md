@@ -22,7 +22,17 @@ Investigating the spatiotemporal relationship of drought with stroke across US s
 
 #### Relationship between Gender and Stroke:
 
-![alt text](/results/stroke race.PNG)
+![alt text](/results/stroke_race.PNG)
+
+
+#### Average consecutive weeks of drought in US across various states:
+
+![alt text](/results/Average_consecutive_weeks_drought.png)
+
+
+#### Average consecutive weeks of drought in US across various states:
+
+![alt text](/results/Average_consecutive_weeks_drought.png)
 
 
 ## Associated Code: 
