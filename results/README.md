@@ -50,3 +50,7 @@ Investigating the relationship between Asthma and PM2.5 across US states
 
 ## Associated Code: 
 #### PM_VS_Asthma.ipynb
+
+### The spatiotemporal representation of the average correlation between Particle Matter (PM2.5) and Asthma cases across US states:
+
+![Alt text](/results/PM25_Asthma_corr.PNG)
