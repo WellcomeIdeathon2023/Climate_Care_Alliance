@@ -17,7 +17,12 @@ Investigating the spatiotemporal relationship of drought with stroke across US s
 
 #### Stroke.csv
 
-![alt text]([https://github.com/WellcomeIdeathon2023/Climate_Care_Alliance/blob/2e4b6a01b9c4330cba7a40fd6af4f82836e9a48c/results/stroke_data.PNG)
+![alt text](/results/stroke_data.PNG)
+
+
+#### Relationship between Gender and Stroke:
+
+![alt text](/results/stroke race.PNG)
 
 
 ## Associated Code: 
