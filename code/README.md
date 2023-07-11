@@ -1,7 +1,40 @@
+
+
 # README
 
-All code used as part of your solution should be uploaded this folder and is expected to be reproducible.
+# All code used as part of your solution should be uploaded this folder and is expected to be reproducible.
+
+# Set One:
+Investigating the relationship of drought with stroke across US states 
+
+## Datasets:
+#### Centers for Disease Control and Prevention
+
+#### Drought.csv
+#### Stroke.csv
 
 
-# Set ONe:
+## Associated Code: 
+#### Drought_Stroke.ipynb
+
+------------------------------------------------------------------------
+# Set Two
+Investigating the relationship of Melanoma and UV exposure (J/m2) across US states 
+
+## Datasets
+#### Centers for Disease Control and Prevention
+
+#### UV.csv
+#### skin.csv
+
+## Associated Code: 
+#### UV_Melanoma.ipynb
+
+
+
+
+
+
+
+
 
