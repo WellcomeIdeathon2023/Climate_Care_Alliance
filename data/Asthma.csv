@@ -1,0 +1,857 @@
+StateFIPS,State,Year,Asthma,Data Comment,Gender
+4,Arizona,2005,38.1,,Male
+4,Arizona,2005,44.6,,Female
+4,Arizona,2006,35,,Male
+4,Arizona,2006,39.9,,Female
+4,Arizona,2007,36.1,,Male
+4,Arizona,2007,40.5,,Female
+4,Arizona,2008,37.7,,Male
+4,Arizona,2008,41.1,,Female
+4,Arizona,2009,39.5,,Male
+4,Arizona,2009,43,,Female
+4,Arizona,2010,38.5,,Male
+4,Arizona,2010,42.5,,Female
+4,Arizona,2011,38.6,,Male
+4,Arizona,2011,42.8,,Female
+4,Arizona,2012,44.5,,Male
+4,Arizona,2012,46.3,,Female
+4,Arizona,2013,39.4,,Male
+4,Arizona,2013,41.7,,Female
+4,Arizona,2014,40.3,,Male
+4,Arizona,2014,44.4,,Female
+4,Arizona,2015,40,,Male
+4,Arizona,2015,44.8,,Female
+4,Arizona,2016,38.4,,Male
+4,Arizona,2016,43,,Female
+4,Arizona,2017,38,,Male
+4,Arizona,2017,41,,Female
+4,Arizona,2018,35.6,,Male
+4,Arizona,2018,39.7,,Female
+4,Arizona,2019,34.8,,Male
+4,Arizona,2019,39.4,,Female
+4,Arizona,2020,20.8,,Male
+4,Arizona,2020,25.9,,Female
+4,Arizona,2021,24.8,,Male
+4,Arizona,2021,27.5,,Female
+6,California,2005,43.2,,Male
+6,California,2005,50.5,,Female
+6,California,2006,41.8,,Male
+6,California,2006,47.7,,Female
+6,California,2007,41.3,,Male
+6,California,2007,47.4,,Female
+6,California,2008,42.3,,Male
+6,California,2008,49.5,,Female
+6,California,2009,47.5,,Male
+6,California,2009,53.9,,Female
+6,California,2010,45.7,,Male
+6,California,2010,51.5,,Female
+6,California,2011,45.1,,Male
+6,California,2011,50.6,,Female
+6,California,2012,47.7,,Male
+6,California,2012,51.2,,Female
+6,California,2013,46.4,,Male
+6,California,2013,51,,Female
+6,California,2014,47.5,,Male
+6,California,2014,50.9,,Female
+6,California,2015,48.2,,Male
+6,California,2015,51.5,,Female
+6,California,2016,44.7,,Male
+6,California,2016,46.5,,Female
+6,California,2017,45.6,,Male
+6,California,2017,48.3,,Female
+6,California,2018,41.4,,Male
+6,California,2018,43.9,,Female
+6,California,2019,41.9,,Male
+6,California,2019,44.6,,Female
+8,Colorado,2013,31.3,,Male
+8,Colorado,2013,34.3,,Female
+8,Colorado,2014,38.1,,Male
+8,Colorado,2014,41,,Female
+8,Colorado,2015,32.6,,Male
+8,Colorado,2015,37.2,,Female
+8,Colorado,2016,30.2,,Male
+8,Colorado,2016,33.3,,Female
+8,Colorado,2017,31.6,,Male
+8,Colorado,2017,34.9,,Female
+8,Colorado,2018,30.2,,Male
+8,Colorado,2018,34.9,,Female
+8,Colorado,2019,28.6,,Male
+8,Colorado,2019,32.6,,Female
+8,Colorado,2020,17.4,,Male
+8,Colorado,2020,23.2,,Female
+9,Connecticut,2000,56.7,,Male
+9,Connecticut,2000,73.2,,Female
+9,Connecticut,2001,57.4,,Male
+9,Connecticut,2001,72.1,,Female
+9,Connecticut,2002,57.2,,Male
+9,Connecticut,2002,73.9,,Female
+9,Connecticut,2003,61.4,,Male
+9,Connecticut,2003,77.9,,Female
+9,Connecticut,2004,54.6,,Male
+9,Connecticut,2004,70.5,,Female
+9,Connecticut,2005,56,,Male
+9,Connecticut,2005,71.6,,Female
+9,Connecticut,2006,56,,Male
+9,Connecticut,2006,70.2,,Female
+9,Connecticut,2007,56.4,,Male
+9,Connecticut,2007,68.7,,Female
+9,Connecticut,2008,59.3,,Male
+9,Connecticut,2008,72,,Female
+9,Connecticut,2009,65.3,,Male
+9,Connecticut,2009,79.4,,Female
+9,Connecticut,2010,60.2,,Male
+9,Connecticut,2010,74.4,,Female
+9,Connecticut,2011,66.9,,Male
+9,Connecticut,2011,78.8,,Female
+9,Connecticut,2012,69.7,,Male
+9,Connecticut,2012,79.3,,Female
+9,Connecticut,2013,64.2,,Male
+9,Connecticut,2013,72.1,,Female
+9,Connecticut,2014,62.9,,Male
+9,Connecticut,2014,69.5,,Female
+9,Connecticut,2015,57.9,,Male
+9,Connecticut,2015,64.6,,Female
+9,Connecticut,2016,56.5,,Male
+9,Connecticut,2016,62.7,,Female
+9,Connecticut,2017,56.3,,Male
+9,Connecticut,2017,60.8,,Female
+9,Connecticut,2018,54.4,,Male
+9,Connecticut,2018,61,,Female
+9,Connecticut,2019,49.9,,Male
+9,Connecticut,2019,58.2,,Female
+9,Connecticut,2020,27.1,,Male
+9,Connecticut,2020,33.2,,Female
+9,Connecticut,2021,37.1,,Male
+9,Connecticut,2021,38.8,,Female
+12,Florida,2005,52.1,,Male
+12,Florida,2005,63.6,,Female
+12,Florida,2006,51,,Male
+12,Florida,2006,60.6,,Female
+12,Florida,2007,51.4,,Male
+12,Florida,2007,60.7,,Female
+12,Florida,2008,51.7,,Male
+12,Florida,2008,63.2,,Female
+12,Florida,2009,58.3,,Male
+12,Florida,2009,69.5,,Female
+12,Florida,2010,56,,Male
+12,Florida,2010,65.2,,Female
+12,Florida,2011,55.7,,Male
+12,Florida,2011,64.4,,Female
+12,Florida,2012,65.9,,Male
+12,Florida,2012,75.4,,Female
+12,Florida,2013,65.4,,Male
+12,Florida,2013,74.8,,Female
+12,Florida,2014,66.6,,Male
+12,Florida,2014,77.7,,Female
+12,Florida,2015,61.8,,Male
+12,Florida,2015,71.5,,Female
+12,Florida,2016,59.7,,Male
+12,Florida,2016,66.9,,Female
+12,Florida,2017,56.4,,Male
+12,Florida,2017,63.7,,Female
+12,Florida,2018,57.4,,Male
+12,Florida,2018,64.5,,Female
+12,Florida,2019,52.3,,Male
+12,Florida,2019,61.7,,Female
+12,Florida,2020,31.7,,Male
+12,Florida,2020,40.3,,Female
+12,Florida,2021,40.9,,Male
+12,Florida,2021,45.9,,Female
+19,Iowa,2003,34.9,,Male
+19,Iowa,2003,44.7,,Female
+19,Iowa,2004,33.9,,Male
+19,Iowa,2004,42.3,,Female
+19,Iowa,2005,37.1,,Male
+19,Iowa,2005,48.5,,Female
+19,Iowa,2006,33.1,,Male
+19,Iowa,2006,44.2,,Female
+19,Iowa,2007,29,,Male
+19,Iowa,2007,35.5,,Female
+19,Iowa,2008,36.6,,Male
+19,Iowa,2008,46.5,,Female
+19,Iowa,2009,38.2,,Male
+19,Iowa,2009,49.9,,Female
+19,Iowa,2010,39.7,,Male
+19,Iowa,2010,49.2,,Female
+19,Iowa,2011,35.2,,Male
+19,Iowa,2011,45.2,,Female
+19,Iowa,2012,39.5,,Male
+19,Iowa,2012,45.6,,Female
+19,Iowa,2013,34.3,,Male
+19,Iowa,2013,41,,Female
+19,Iowa,2014,38.8,,Male
+19,Iowa,2014,45.6,,Female
+19,Iowa,2015,35.7,,Male
+19,Iowa,2015,45,,Female
+19,Iowa,2016,31.1,,Male
+19,Iowa,2016,37.5,,Female
+19,Iowa,2017,31.2,,Male
+19,Iowa,2017,35.8,,Female
+19,Iowa,2018,29.5,,Male
+19,Iowa,2018,35.2,,Female
+19,Iowa,2019,27.1,,Male
+19,Iowa,2019,31.6,,Female
+19,Iowa,2020,18.8,,Male
+19,Iowa,2020,23.4,,Female
+19,Iowa,2021,21.3,,Male
+19,Iowa,2021,26.2,,Female
+20,Kansas,2009,33,,Male
+20,Kansas,2009,39.9,,Female
+20,Kansas,2010,33.5,,Male
+20,Kansas,2010,40.9,,Female
+20,Kansas,2011,36.1,,Male
+20,Kansas,2011,40.5,,Female
+20,Kansas,2012,39.7,,Male
+20,Kansas,2012,41.9,,Female
+20,Kansas,2013,34.6,,Male
+20,Kansas,2013,38.2,,Female
+20,Kansas,2014,36.2,,Male
+20,Kansas,2014,40.3,,Female
+20,Kansas,2015,38.6,,Male
+20,Kansas,2015,43,,Female
+20,Kansas,2016,33.3,,Male
+20,Kansas,2016,37.8,,Female
+20,Kansas,2017,36.5,,Male
+20,Kansas,2017,38.9,,Female
+20,Kansas,2018,35.2,,Male
+20,Kansas,2018,37.8,,Female
+20,Kansas,2019,34.8,,Male
+20,Kansas,2019,41.3,,Female
+20,Kansas,2020,22.4,,Male
+20,Kansas,2020,28.3,,Female
+20,Kansas,2021,25.3,,Male
+20,Kansas,2021,29.7,,Female
+21,Kentucky,2008,42.6,,Male
+21,Kentucky,2008,58.2,,Female
+21,Kentucky,2009,45.8,,Male
+21,Kentucky,2009,59.3,,Female
+21,Kentucky,2010,47.6,,Male
+21,Kentucky,2010,60.5,,Female
+21,Kentucky,2011,46.8,,Male
+21,Kentucky,2011,62.3,,Female
+21,Kentucky,2012,50.7,,Male
+21,Kentucky,2012,62.8,,Female
+21,Kentucky,2013,46.1,,Male
+21,Kentucky,2013,58.8,,Female
+21,Kentucky,2014,50.8,,Male
+21,Kentucky,2014,65,,Female
+21,Kentucky,2015,46.5,,Male
+21,Kentucky,2015,58.7,,Female
+21,Kentucky,2016,38.5,,Male
+21,Kentucky,2016,46.8,,Female
+21,Kentucky,2017,33.5,,Male
+21,Kentucky,2017,42.6,,Female
+21,Kentucky,2018,33.3,,Male
+21,Kentucky,2018,42.8,,Female
+21,Kentucky,2019,32.6,,Male
+21,Kentucky,2019,40.9,,Female
+21,Kentucky,2020,18.9,,Male
+21,Kentucky,2020,26.4,,Female
+22,Louisiana,2010,45.9,,Male
+22,Louisiana,2010,53.9,,Female
+22,Louisiana,2011,50.4,,Male
+22,Louisiana,2011,56.8,,Female
+22,Louisiana,2012,55.3,,Male
+22,Louisiana,2012,62.7,,Female
+22,Louisiana,2013,53,,Male
+22,Louisiana,2013,61.9,,Female
+22,Louisiana,2014,59.1,,Male
+22,Louisiana,2014,66.1,,Female
+22,Louisiana,2015,54.3,,Male
+22,Louisiana,2015,61.5,,Female
+22,Louisiana,2016,48.1,,Male
+22,Louisiana,2016,54.6,,Female
+22,Louisiana,2017,49.3,,Male
+22,Louisiana,2017,57.1,,Female
+22,Louisiana,2018,50.5,,Male
+22,Louisiana,2018,54.7,,Female
+22,Louisiana,2019,51.2,,Male
+22,Louisiana,2019,54.2,,Female
+23,Maine,2001,62.2,,Male
+23,Maine,2001,83.4,,Female
+23,Maine,2002,58.5,,Male
+23,Maine,2002,79.2,,Female
+23,Maine,2003,62.9,,Male
+23,Maine,2003,83.7,,Female
+23,Maine,2004,58,,Male
+23,Maine,2004,75.9,,Female
+23,Maine,2005,60.6,,Male
+23,Maine,2005,85.4,,Female
+23,Maine,2006,57.8,,Male
+23,Maine,2006,81.3,,Female
+23,Maine,2007,56.1,,Male
+23,Maine,2007,74.1,,Female
+23,Maine,2008,61.6,,Male
+23,Maine,2008,79.1,,Female
+23,Maine,2009,57.1,,Male
+23,Maine,2009,78.9,,Female
+23,Maine,2010,57.2,,Male
+23,Maine,2010,72.6,,Female
+23,Maine,2011,58,,Male
+23,Maine,2011,73.7,,Female
+23,Maine,2012,57.6,,Male
+23,Maine,2012,72.4,,Female
+23,Maine,2013,46.8,,Male
+23,Maine,2013,60.5,,Female
+23,Maine,2014,46.4,,Male
+23,Maine,2014,60.6,,Female
+23,Maine,2015,45.1,,Male
+23,Maine,2015,58.7,,Female
+23,Maine,2016,40.4,,Male
+23,Maine,2016,49.6,,Female
+23,Maine,2017,36.9,,Male
+23,Maine,2017,46.6,,Female
+23,Maine,2018,33.7,,Male
+23,Maine,2018,44.4,,Female
+23,Maine,2019,30.5,,Male
+23,Maine,2019,40.2,,Female
+23,Maine,2020,18.2,,Male
+23,Maine,2020,25.9,,Female
+24,Maryland,2000,62.2,,Male
+24,Maryland,2000,70.5,,Female
+24,Maryland,2001,68.5,,Male
+24,Maryland,2001,73.1,,Female
+24,Maryland,2002,66.2,,Male
+24,Maryland,2002,72.7,,Female
+24,Maryland,2003,74.1,,Male
+24,Maryland,2003,79.7,,Female
+24,Maryland,2004,67.8,,Male
+24,Maryland,2004,72.8,,Female
+24,Maryland,2005,71.6,,Male
+24,Maryland,2005,75.4,,Female
+24,Maryland,2006,59.3,,Male
+24,Maryland,2006,62.2,,Female
+24,Maryland,2007,73.8,,Male
+24,Maryland,2007,75,,Female
+24,Maryland,2008,71.3,,Male
+24,Maryland,2008,74.3,,Female
+24,Maryland,2009,75.2,,Male
+24,Maryland,2009,76.5,,Female
+24,Maryland,2010,79.7,,Male
+24,Maryland,2010,85.6,,Female
+24,Maryland,2011,79.4,,Male
+24,Maryland,2011,87.8,,Female
+24,Maryland,2012,85.5,,Male
+24,Maryland,2012,88.4,,Female
+24,Maryland,2013,79.4,,Male
+24,Maryland,2013,82.6,,Female
+24,Maryland,2014,76.5,,Male
+24,Maryland,2014,81.7,,Female
+24,Maryland,2015,71.1,,Male
+24,Maryland,2015,74.1,,Female
+24,Maryland,2016,65.7,,Male
+24,Maryland,2016,65.4,,Female
+24,Maryland,2017,58.9,,Male
+24,Maryland,2017,60.8,,Female
+24,Maryland,2018,55.7,,Male
+24,Maryland,2018,57.3,,Female
+25,Massachusetts,2002,68,,Male
+25,Massachusetts,2002,81.6,,Female
+25,Massachusetts,2003,74.7,,Male
+25,Massachusetts,2003,86.9,,Female
+25,Massachusetts,2004,65.8,,Male
+25,Massachusetts,2004,77.7,,Female
+25,Massachusetts,2005,66.7,,Male
+25,Massachusetts,2005,79.8,,Female
+25,Massachusetts,2006,70.3,,Male
+25,Massachusetts,2006,81,,Female
+25,Massachusetts,2007,68.5,,Male
+25,Massachusetts,2007,77.6,,Female
+25,Massachusetts,2008,73.9,,Male
+25,Massachusetts,2008,83.3,,Female
+25,Massachusetts,2009,70.3,,Male
+25,Massachusetts,2009,81.6,,Female
+25,Massachusetts,2010,64.1,,Male
+25,Massachusetts,2010,75,,Female
+25,Massachusetts,2011,66.3,,Male
+25,Massachusetts,2011,76.3,,Female
+25,Massachusetts,2012,68.4,,Male
+25,Massachusetts,2012,76.6,,Female
+25,Massachusetts,2013,65.3,,Male
+25,Massachusetts,2013,71.6,,Female
+25,Massachusetts,2014,67.2,,Male
+25,Massachusetts,2014,74.1,,Female
+25,Massachusetts,2015,63.1,,Male
+25,Massachusetts,2015,69.8,,Female
+25,Massachusetts,2016,58.8,,Male
+25,Massachusetts,2016,63.3,,Female
+25,Massachusetts,2017,55.6,,Male
+25,Massachusetts,2017,60.9,,Female
+25,Massachusetts,2018,54.2,,Male
+25,Massachusetts,2018,60.6,,Female
+25,Massachusetts,2019,51.3,,Male
+25,Massachusetts,2019,56.4,,Female
+26,Michigan,2018,48.5,,Male
+26,Michigan,2018,55.6,,Female
+26,Michigan,2019,48.8,,Male
+26,Michigan,2019,56.5,,Female
+26,Michigan,2020,27.6,,Male
+26,Michigan,2020,35.1,,Female
+27,Minnesota,2005,35.6,,Male
+27,Minnesota,2005,40.6,,Female
+27,Minnesota,2006,35.5,,Male
+27,Minnesota,2006,39.7,,Female
+27,Minnesota,2007,38.6,,Male
+27,Minnesota,2007,42.6,,Female
+27,Minnesota,2008,36.2,,Male
+27,Minnesota,2008,41.4,,Female
+27,Minnesota,2009,38.4,,Male
+27,Minnesota,2009,43.1,,Female
+27,Minnesota,2010,36.7,,Male
+27,Minnesota,2010,41.3,,Female
+27,Minnesota,2011,37.8,,Male
+27,Minnesota,2011,42.2,,Female
+27,Minnesota,2012,41.4,,Male
+27,Minnesota,2012,43.4,,Female
+27,Minnesota,2013,36.3,,Male
+27,Minnesota,2013,39.9,,Female
+27,Minnesota,2014,40.1,,Male
+27,Minnesota,2014,42.9,,Female
+27,Minnesota,2015,36.2,,Male
+27,Minnesota,2015,38.9,,Female
+27,Minnesota,2016,32.6,,Male
+27,Minnesota,2016,36.7,,Female
+27,Minnesota,2017,27.7,,Male
+27,Minnesota,2017,31,,Female
+27,Minnesota,2018,27.3,,Male
+27,Minnesota,2018,29.9,,Female
+27,Minnesota,2019,25.3,,Male
+27,Minnesota,2019,29.3,,Female
+27,Minnesota,2020,15.3,,Male
+27,Minnesota,2020,18.4,,Female
+29,Missouri,2000,57,,Male
+29,Missouri,2000,64.5,,Female
+29,Missouri,2001,55.8,,Male
+29,Missouri,2001,66.7,,Female
+29,Missouri,2002,60.7,,Male
+29,Missouri,2002,72.5,,Female
+29,Missouri,2003,59.1,,Male
+29,Missouri,2003,72.6,,Female
+29,Missouri,2004,56,,Male
+29,Missouri,2004,67.1,,Female
+29,Missouri,2005,55.9,,Male
+29,Missouri,2005,68.6,,Female
+29,Missouri,2006,55.4,,Male
+29,Missouri,2006,64.9,,Female
+29,Missouri,2007,56.4,,Male
+29,Missouri,2007,68.3,,Female
+29,Missouri,2008,56.4,,Male
+29,Missouri,2008,69.1,,Female
+29,Missouri,2009,56.6,,Male
+29,Missouri,2009,66.9,,Female
+29,Missouri,2010,56.8,,Male
+29,Missouri,2010,65.5,,Female
+29,Missouri,2011,57.4,,Male
+29,Missouri,2011,65.3,,Female
+29,Missouri,2012,64.4,,Male
+29,Missouri,2012,71.3,,Female
+29,Missouri,2013,58.9,,Male
+29,Missouri,2013,64.3,,Female
+29,Missouri,2014,62.3,,Male
+29,Missouri,2014,68.9,,Female
+29,Missouri,2015,55.7,,Male
+29,Missouri,2015,61.1,,Female
+29,Missouri,2016,48.1,,Male
+29,Missouri,2016,52.6,,Female
+29,Missouri,2017,46.4,,Male
+29,Missouri,2017,51.3,,Female
+29,Missouri,2018,43.5,,Male
+29,Missouri,2018,50.7,,Female
+29,Missouri,2019,39.5,,Male
+29,Missouri,2019,47.7,,Female
+29,Missouri,2020,27.5,,Male
+29,Missouri,2020,33.1,,Female
+33,New Hampshire,2000,48.6,,Male
+33,New Hampshire,2000,71.9,,Female
+33,New Hampshire,2001,49.2,,Male
+33,New Hampshire,2001,68.6,,Female
+33,New Hampshire,2002,49.2,,Male
+33,New Hampshire,2002,65.6,,Female
+33,New Hampshire,2003,51.4,,Male
+33,New Hampshire,2003,71,,Female
+33,New Hampshire,2004,47.4,,Male
+33,New Hampshire,2004,63,,Female
+33,New Hampshire,2005,49.2,,Male
+33,New Hampshire,2005,66.1,,Female
+33,New Hampshire,2006,46.5,,Male
+33,New Hampshire,2006,62.3,,Female
+33,New Hampshire,2007,47,,Male
+33,New Hampshire,2007,61.1,,Female
+33,New Hampshire,2008,48.1,,Male
+33,New Hampshire,2008,63.3,,Female
+33,New Hampshire,2009,44.5,,Male
+33,New Hampshire,2009,59.7,,Female
+33,New Hampshire,2010,28.4,,Male
+33,New Hampshire,2010,35.2,,Female
+33,New Hampshire,2012,45.2,,Male
+33,New Hampshire,2012,55.2,,Female
+33,New Hampshire,2013,38.1,,Male
+33,New Hampshire,2013,49.9,,Female
+33,New Hampshire,2014,39,,Male
+33,New Hampshire,2014,49.5,,Female
+33,New Hampshire,2015,36.7,,Male
+33,New Hampshire,2015,47.1,,Female
+33,New Hampshire,2016,32,,Male
+33,New Hampshire,2016,39.7,,Female
+33,New Hampshire,2017,31.8,,Male
+33,New Hampshire,2017,36.8,,Female
+33,New Hampshire,2018,31.2,,Male
+33,New Hampshire,2018,38,,Female
+33,New Hampshire,2019,27.5,,Male
+33,New Hampshire,2019,35.1,,Female
+33,New Hampshire,2020,16.1,,Male
+33,New Hampshire,2020,24.4,,Female
+34,New Jersey,2004,69.8,,Male
+34,New Jersey,2004,81.8,,Female
+34,New Jersey,2005,71.1,,Male
+34,New Jersey,2005,82.8,,Female
+34,New Jersey,2006,72.7,,Male
+34,New Jersey,2006,84.9,,Female
+34,New Jersey,2007,69.9,,Male
+34,New Jersey,2007,81.6,,Female
+34,New Jersey,2008,68.9,,Male
+34,New Jersey,2008,80.8,,Female
+34,New Jersey,2009,74.4,,Male
+34,New Jersey,2009,87.8,,Female
+34,New Jersey,2010,70.9,,Male
+34,New Jersey,2010,85.9,,Female
+34,New Jersey,2011,69.9,,Male
+34,New Jersey,2011,84.5,,Female
+34,New Jersey,2012,64.1,,Male
+34,New Jersey,2012,68.9,,Female
+34,New Jersey,2013,59,,Male
+34,New Jersey,2013,64.7,,Female
+34,New Jersey,2014,59.9,,Male
+34,New Jersey,2014,67.5,,Female
+34,New Jersey,2015,60.4,,Male
+34,New Jersey,2015,66.2,,Female
+34,New Jersey,2016,56.3,,Male
+34,New Jersey,2016,63.3,,Female
+34,New Jersey,2017,53,,Male
+34,New Jersey,2017,61.3,,Female
+34,New Jersey,2018,51.6,,Male
+34,New Jersey,2018,57.8,,Female
+34,New Jersey,2019,47.9,,Male
+34,New Jersey,2019,54,,Female
+34,New Jersey,2020,24.7,,Male
+34,New Jersey,2020,29.5,,Female
+34,New Jersey,2021,31.5,,Male
+34,New Jersey,2021,34.7,,Female
+35,New Mexico,2010,31.6,,Male
+35,New Mexico,2010,41.1,,Female
+35,New Mexico,2011,30.6,,Male
+35,New Mexico,2011,39.5,,Female
+35,New Mexico,2012,36.2,,Male
+35,New Mexico,2012,43.7,,Female
+35,New Mexico,2013,37.2,,Male
+35,New Mexico,2013,46.5,,Female
+35,New Mexico,2014,39.5,,Male
+35,New Mexico,2014,47.2,,Female
+35,New Mexico,2015,36.8,,Male
+35,New Mexico,2015,47,,Female
+35,New Mexico,2016,31.3,,Male
+35,New Mexico,2016,40.8,,Female
+35,New Mexico,2017,29.3,,Male
+35,New Mexico,2017,38.9,,Female
+35,New Mexico,2018,31.6,,Male
+35,New Mexico,2018,40,,Female
+35,New Mexico,2019,26.8,,Male
+35,New Mexico,2019,34.7,,Female
+35,New Mexico,2020,16.7,,Male
+35,New Mexico,2020,22.8,,Female
+35,New Mexico,2021,19.5,,Male
+35,New Mexico,2021,23.7,,Female
+36,New York,2005,84.9,,Male
+36,New York,2005,93.5,,Female
+36,New York,2006,88.3,,Male
+36,New York,2006,96.2,,Female
+36,New York,2007,87.4,,Male
+36,New York,2007,95.1,,Female
+36,New York,2008,86.8,,Male
+36,New York,2008,97.9,,Female
+36,New York,2009,90.7,,Male
+36,New York,2009,101.8,,Female
+36,New York,2010,87.6,,Male
+36,New York,2010,97.6,,Female
+36,New York,2011,89.8,,Male
+36,New York,2011,100,,Female
+36,New York,2012,95.1,,Male
+36,New York,2012,104.1,,Female
+36,New York,2013,91.6,,Male
+36,New York,2013,99.7,,Female
+36,New York,2014,91.8,,Male
+36,New York,2014,100.3,,Female
+36,New York,2015,87.7,,Male
+36,New York,2015,95.7,,Female
+36,New York,2016,82.1,,Male
+36,New York,2016,88.6,,Female
+36,New York,2017,75.6,,Male
+36,New York,2017,81.8,,Female
+36,New York,2018,74.6,,Male
+36,New York,2018,81.6,,Female
+36,New York,2019,69.6,,Male
+36,New York,2019,75.4,,Female
+36,New York,2020,34.5,,Male
+36,New York,2020,37.4,,Female
+36,New York,2021,41.9,,Male
+36,New York,2021,41,,Female
+37,North Carolina,2008,45.5,,Male
+37,North Carolina,2008,56.7,,Female
+37,North Carolina,2009,46.5,,Male
+37,North Carolina,2009,58,,Female
+37,North Carolina,2010,44.1,,Male
+37,North Carolina,2010,53.9,,Female
+37,North Carolina,2011,43.7,,Male
+37,North Carolina,2011,54,,Female
+37,North Carolina,2012,48.1,,Male
+37,North Carolina,2012,56,,Female
+37,North Carolina,2013,42.8,,Male
+37,North Carolina,2013,50.9,,Female
+37,North Carolina,2014,43.3,,Male
+37,North Carolina,2014,51.2,,Female
+37,North Carolina,2015,38.5,,Male
+37,North Carolina,2015,46.2,,Female
+37,North Carolina,2016,46.7,,Male
+37,North Carolina,2016,54.7,,Female
+37,North Carolina,2017,53.8,,Male
+37,North Carolina,2017,63.9,,Female
+37,North Carolina,2018,59.1,,Male
+37,North Carolina,2018,77.1,,Female
+37,North Carolina,2019,47.2,,Male
+37,North Carolina,2019,58.7,,Female
+37,North Carolina,2020,31.6,,Male
+37,North Carolina,2020,42.7,,Female
+37,North Carolina,2021,26.8,,Male
+37,North Carolina,2021,33.1,,Female
+41,Oregon,2018,30.2,,Male
+41,Oregon,2018,34.2,,Female
+41,Oregon,2019,27.3,,Male
+41,Oregon,2019,32.7,,Female
+41,Oregon,2020,18.8,,Male
+41,Oregon,2020,23.9,,Female
+41,Oregon,2021,17.8,,Male
+41,Oregon,2021,21.3,,Female
+44,Rhode Island,2005,58.2,,Male
+44,Rhode Island,2005,74.5,,Female
+44,Rhode Island,2006,57.2,,Male
+44,Rhode Island,2006,73.2,,Female
+44,Rhode Island,2007,57.8,,Male
+44,Rhode Island,2007,73.8,,Female
+44,Rhode Island,2008,65.8,,Male
+44,Rhode Island,2008,76.5,,Female
+44,Rhode Island,2009,66,,Male
+44,Rhode Island,2009,77.1,,Female
+44,Rhode Island,2010,58,,Male
+44,Rhode Island,2010,68.7,,Female
+44,Rhode Island,2011,57.8,,Male
+44,Rhode Island,2011,71.1,,Female
+44,Rhode Island,2012,59,,Male
+44,Rhode Island,2012,70.1,,Female
+44,Rhode Island,2013,54,,Male
+44,Rhode Island,2013,65,,Female
+44,Rhode Island,2014,57.9,,Male
+44,Rhode Island,2014,69.6,,Female
+44,Rhode Island,2015,56.1,,Male
+44,Rhode Island,2015,63.9,,Female
+44,Rhode Island,2016,54.5,,Male
+44,Rhode Island,2016,60.6,,Female
+44,Rhode Island,2017,53.7,,Male
+44,Rhode Island,2017,57.3,,Female
+44,Rhode Island,2018,50.9,,Male
+44,Rhode Island,2018,49.8,,Female
+44,Rhode Island,2019,48.6,,Male
+44,Rhode Island,2019,50,,Female
+44,Rhode Island,2020,21.6,,Male
+44,Rhode Island,2020,25.4,,Female
+44,Rhode Island,2021,28.4,,Male
+44,Rhode Island,2021,31.7,,Female
+45,South Carolina,2000,53.6,,Male
+45,South Carolina,2000,68.3,,Female
+45,South Carolina,2001,55.6,,Male
+45,South Carolina,2001,67.4,,Female
+45,South Carolina,2002,57.2,,Male
+45,South Carolina,2002,69.8,,Female
+45,South Carolina,2003,57.1,,Male
+45,South Carolina,2003,73.4,,Female
+45,South Carolina,2004,49.8,,Male
+45,South Carolina,2004,63.3,,Female
+45,South Carolina,2005,51.6,,Male
+45,South Carolina,2005,64.5,,Female
+45,South Carolina,2006,50.9,,Male
+45,South Carolina,2006,63.1,,Female
+45,South Carolina,2007,54.1,,Male
+45,South Carolina,2007,66,,Female
+45,South Carolina,2008,51.3,,Male
+45,South Carolina,2008,64.4,,Female
+45,South Carolina,2009,55.1,,Male
+45,South Carolina,2009,67.8,,Female
+45,South Carolina,2010,55.1,,Male
+45,South Carolina,2010,66.5,,Female
+45,South Carolina,2011,53.8,,Male
+45,South Carolina,2011,65.1,,Female
+45,South Carolina,2012,59.9,,Male
+45,South Carolina,2012,70.1,,Female
+45,South Carolina,2013,59.8,,Male
+45,South Carolina,2013,69.2,,Female
+45,South Carolina,2014,59.6,,Male
+45,South Carolina,2014,68.8,,Female
+47,Tennessee,2000,51.3,,Male
+47,Tennessee,2000,63.1,,Female
+47,Tennessee,2001,54.7,,Male
+47,Tennessee,2001,68.7,,Female
+47,Tennessee,2002,56.5,,Male
+47,Tennessee,2002,71,,Female
+47,Tennessee,2003,56.7,,Male
+47,Tennessee,2003,74.3,,Female
+47,Tennessee,2004,53.6,,Male
+47,Tennessee,2004,67.7,,Female
+47,Tennessee,2005,55.9,,Male
+47,Tennessee,2005,72.4,,Female
+47,Tennessee,2006,54.3,,Male
+47,Tennessee,2006,67.9,,Female
+47,Tennessee,2007,54.1,,Male
+47,Tennessee,2007,67.1,,Female
+47,Tennessee,2008,53.6,,Male
+47,Tennessee,2008,68.6,,Female
+47,Tennessee,2009,56,,Male
+47,Tennessee,2009,70.7,,Female
+47,Tennessee,2010,58.1,,Male
+47,Tennessee,2010,69.5,,Female
+47,Tennessee,2011,55.3,,Male
+47,Tennessee,2011,67.5,,Female
+47,Tennessee,2012,62,,Male
+47,Tennessee,2012,70.4,,Female
+47,Tennessee,2013,55.6,,Male
+47,Tennessee,2013,65.8,,Female
+47,Tennessee,2014,58.3,,Male
+47,Tennessee,2014,66.4,,Female
+47,Tennessee,2015,53.6,,Male
+47,Tennessee,2015,61.8,,Female
+47,Tennessee,2016,49.7,,Male
+47,Tennessee,2016,55.8,,Female
+47,Tennessee,2017,48.1,,Male
+47,Tennessee,2017,54.1,,Female
+47,Tennessee,2018,47.1,,Male
+47,Tennessee,2018,54.2,,Female
+47,Tennessee,2019,43.7,,Male
+47,Tennessee,2019,51.8,,Female
+49,Utah,2000,20.2,,Male
+49,Utah,2000,30.1,,Female
+49,Utah,2001,21.3,,Male
+49,Utah,2001,31.5,,Female
+49,Utah,2002,23.2,,Male
+49,Utah,2002,31.2,,Female
+49,Utah,2003,23,,Male
+49,Utah,2003,33.9,,Female
+49,Utah,2004,21.9,,Male
+49,Utah,2004,29.4,,Female
+49,Utah,2005,23,,Male
+49,Utah,2005,31.9,,Female
+49,Utah,2006,19.8,,Male
+49,Utah,2006,27.6,,Female
+49,Utah,2007,20.6,,Male
+49,Utah,2007,28.5,,Female
+49,Utah,2008,22,,Male
+49,Utah,2008,28.1,,Female
+49,Utah,2009,21.4,,Male
+49,Utah,2009,29,,Female
+49,Utah,2010,18.1,,Male
+49,Utah,2010,25.6,,Female
+49,Utah,2011,17.8,,Male
+49,Utah,2011,24.7,,Female
+49,Utah,2012,19.9,,Male
+49,Utah,2012,25.5,,Female
+49,Utah,2013,19.5,,Male
+49,Utah,2013,26.7,,Female
+49,Utah,2014,21.2,,Male
+49,Utah,2014,27,,Female
+49,Utah,2015,19.6,,Male
+49,Utah,2015,25.7,,Female
+49,Utah,2016,16.1,,Male
+49,Utah,2016,21.4,,Female
+49,Utah,2017,16.9,,Male
+49,Utah,2017,22.5,,Female
+49,Utah,2018,16.6,,Male
+49,Utah,2018,20.9,,Female
+49,Utah,2019,16.3,,Male
+49,Utah,2019,21.8,,Female
+49,Utah,2020,12.5,,Male
+49,Utah,2020,17,,Female
+49,Utah,2021,15.4,,Male
+49,Utah,2021,19.6,,Female
+50,Vermont,2003,38.6,,Male
+50,Vermont,2003,52.9,,Female
+50,Vermont,2004,32.9,,Male
+50,Vermont,2004,49.3,,Female
+50,Vermont,2005,39.7,,Male
+50,Vermont,2005,55.5,,Female
+50,Vermont,2006,37.4,,Male
+50,Vermont,2006,53.8,,Female
+50,Vermont,2007,37.6,,Male
+50,Vermont,2007,51.5,,Female
+50,Vermont,2008,39.8,,Male
+50,Vermont,2008,54.2,,Female
+50,Vermont,2009,40.8,,Male
+50,Vermont,2009,57.7,,Female
+50,Vermont,2010,40.2,,Male
+50,Vermont,2010,45.6,,Female
+50,Vermont,2011,39.8,,Male
+50,Vermont,2011,46.4,,Female
+50,Vermont,2012,41.3,,Male
+50,Vermont,2012,48.1,,Female
+50,Vermont,2013,44.9,,Male
+50,Vermont,2013,51.9,,Female
+50,Vermont,2014,41.7,,Male
+50,Vermont,2014,53.1,,Female
+50,Vermont,2015,42.9,,Male
+50,Vermont,2015,52,,Female
+50,Vermont,2016,33.7,,Male
+50,Vermont,2016,40.9,,Female
+50,Vermont,2017,28,,Male
+50,Vermont,2017,34,,Female
+50,Vermont,2018,29.4,,Male
+50,Vermont,2018,34.4,,Female
+50,Vermont,2019,27.8,,Male
+50,Vermont,2019,34.2,,Female
+50,Vermont,2020,15.2,,Male
+50,Vermont,2020,23.1,,Female
+55,Wisconsin,2002,42.2,,Male
+55,Wisconsin,2002,51.7,,Female
+55,Wisconsin,2003,43.2,,Male
+55,Wisconsin,2003,54,,Female
+55,Wisconsin,2004,40.5,,Male
+55,Wisconsin,2004,49.6,,Female
+55,Wisconsin,2005,41.4,,Male
+55,Wisconsin,2005,50.9,,Female
+55,Wisconsin,2006,39.4,,Male
+55,Wisconsin,2006,47.2,,Female
+55,Wisconsin,2007,39.2,,Male
+55,Wisconsin,2007,47.8,,Female
+55,Wisconsin,2008,40.1,,Male
+55,Wisconsin,2008,49.9,,Female
+55,Wisconsin,2009,41.9,,Male
+55,Wisconsin,2009,51.8,,Female
+55,Wisconsin,2010,40.9,,Male
+55,Wisconsin,2010,50.8,,Female
+55,Wisconsin,2011,40,,Male
+55,Wisconsin,2011,47.6,,Female
+55,Wisconsin,2012,43.3,,Male
+55,Wisconsin,2012,49.2,,Female
+55,Wisconsin,2013,39.9,,Male
+55,Wisconsin,2013,45.8,,Female
+55,Wisconsin,2014,43.9,,Male
+55,Wisconsin,2014,52.2,,Female
+55,Wisconsin,2015,41.5,,Male
+55,Wisconsin,2015,48.8,,Female
+55,Wisconsin,2016,37,,Male
+55,Wisconsin,2016,44.4,,Female
+55,Wisconsin,2017,36.8,,Male
+55,Wisconsin,2017,43.7,,Female
+55,Wisconsin,2018,35.5,,Male
+55,Wisconsin,2018,41.5,,Female
+55,Wisconsin,2019,34.5,,Male
+55,Wisconsin,2019,40.4,,Female
+55,Wisconsin,2020,21.5,,Male
+55,Wisconsin,2020,26.8,,Female
+55,Wisconsin,2021,26.7,,Male
+55,Wisconsin,2021,31.8,,Female
