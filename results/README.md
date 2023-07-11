@@ -2,7 +2,6 @@
 
 Final results, including presented slides and other content, should be uploaded to this folder.
 
-![alt text](http://url/to/img.png)
 
 # Set One:
 Investigating the spatiotemporal relationship of drought with stroke across US states 
@@ -11,28 +10,7 @@ Investigating the spatiotemporal relationship of drought with stroke across US s
 #### Centers for Disease Control and Prevention
 
 #### Drought.csv
-
-![alt text](/results/drought_data.PNG)
-
-
 #### Stroke.csv
-
-![alt text](/results/stroke_data.PNG)
-
-
-#### Relationship between Gender and Stroke:
-
-![alt text](/results/stroke_race.PNG)
-
-
-#### Average consecutive weeks of drought in US across various states:
-
-![alt text](/results/Average_consecutive_weeks_drought.png)
-
-
-#### Average consecutive weeks of drought in US across various states:
-
-![alt text](/results/Average_consecutive_weeks_drought.png)
 
 
 ## Associated Code: 
