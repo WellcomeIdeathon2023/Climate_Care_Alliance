@@ -29,6 +29,10 @@ Investigating the relationship of Melanoma and UV exposure (J/m2) across US stat
 ## Associated Code: 
 #### UV_Melanoma.ipynb
 
+### The average correlation between Melanoma and UV exposure (J/m2) across US states:
+![Alt text](results/corr_mel_uv.PNG)
+
+
 ------------------------------------------------------------------------
 # Set Three
 Investigating the relationship between Asthma and PM2.5 across US states 
